@@ -1,3 +1,4 @@
+alert("This site is created by </webdev>.")
 const quoteText = document.getElementById('quote-text');
 const quoteAuthor = document.getElementById('quote-author');
 const newQuoteBtn = document.getElementById('new-quote');
