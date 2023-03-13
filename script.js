@@ -1,4 +1,4 @@
-alert("This site is created by </webdev>.")
+alert("This site is created by Alfredo Boa Jr")
 const quoteText = document.getElementById('quote-text');
 const quoteAuthor = document.getElementById('quote-author');
 const newQuoteBtn = document.getElementById('new-quote');
